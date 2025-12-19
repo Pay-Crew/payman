@@ -1,3 +1,7 @@
+# Nix
+/.direnv
+
+# JavaScript
 /node_modules
 /build
 .env
